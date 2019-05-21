@@ -4,6 +4,7 @@ body {
   line-height: 34px;
   color: #777777;
   background: url("../images/concrete_seamless.png");
+  image-rendering: auto;
 }
 
 * {
@@ -155,6 +156,7 @@ h2 {
   opacity: 0.8;
   position: relative;
 }
+
 .work h3 {
   position: absolute;
   bottom: 20px;
